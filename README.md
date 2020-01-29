@@ -1,1 +1,1 @@
-# project2-soccer
+# Project 2 - soccer
