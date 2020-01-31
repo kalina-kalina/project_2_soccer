@@ -19,3 +19,16 @@ How did my work look like:
     
 -> I started coding thinking about how to put some parts into functions and classes, but I didn't have enough time to do it.
 
+My main problems:
+    - understanding of APIs (hudge part of my project's time)
+    - missing knowladge of MongoDB
+    - lots of errors 😱
+    
+What I learned during this project:
+    - SQL
+    - basics of APIs
+    - how to solve many problems during the work, how to test my ideas
+    - how many unexpected difficulties can I find
+    - how important is focusing on one problem instead of thinking about everything 
+    - don't panic!
+    
